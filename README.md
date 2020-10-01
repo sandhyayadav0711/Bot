@@ -1,7 +1,7 @@
 <h1 align="center">Bot
 
 </h1>
-<p align="center">An open-source Unlimited Website Traffic Generator And YouTube View Generator.</p><br>
+<p align="center">An open-source Unlimited Website Traffic Generator And YouTube View Generator with no efforts.</p><br>
 
 
 ###############  Coded by      : tuhin1729 ##############<br>
